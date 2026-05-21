@@ -1,9 +1,10 @@
 * {
     margin: 0;
     padding: 0;
-    font-family:'Courier New', Courier, monospace
+    font-family: "gelasio"
 }
-h1{
+
+h1 {
     font-size: 45px;
     text-align: center;
     margin-top: 30px;
@@ -24,27 +25,45 @@ footer {
 
 .texto {
     text-align: center;
-    line-height: 1.7 ;
+    line-height: 1.7;
     color: #777;
+    font-size: 18px;
+    
 }
-.servicios{
-    font-size: 35px;
+
+.servicios {
+    font-size: 20px;
     color: black;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+.servicios a {
+    color: black;
+    line-height: 1.5;
 }
 
 .pie {
-    font: size 18px;
+    font-size:  18px;
     color: black;
+    text-align: center;
 }
 
 .pie a {
     color: black;
+    
 }
 
 .iconos {
     margin-top: 30px;
     text-align: center;
-    font: size 25px;
+    font-size:  25px;
     color: black;
 }
+
+.iconos a {
+    color: black;
+    margin-right: 10px;
+}
+
 
