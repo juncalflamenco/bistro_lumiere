@@ -47,10 +47,12 @@ footer {
     font-size:  18px;
     color: black;
     text-align: center;
+    margin-top: 15px;
 }
 
 .pie a {
     color: black;
+    
     
 }
 
@@ -65,5 +67,19 @@ footer {
     color: black;
     margin-right: 10px;
 }
+h2{
+   font-size: 45px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+} 
+h3{
+    text-align: center;
+}
 
-
+.plato{
+    text-align: center;
+}
+.alergenos{
+    text-align: center;
+}
